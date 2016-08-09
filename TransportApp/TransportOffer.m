@@ -1,15 +1,13 @@
 //
-//  FirstViewController.h
+//  TransportOffer.m
 //  TransportApp
 //
 //  Created by Amr AbulAzm on 04/08/2016.
 //  Copyright © 2016 Amr AbulAzm. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "TransportOffer.h"
 
-@interface FirstViewController : UIViewController
-
+@implementation TransportOffer
 
 @end
-
